@@ -7,11 +7,11 @@ Absolutely! That's a comprehensive list of AI and related tools. Analyzing each 
 
 **Website & App Building/Hosting:**
 
-    * 10web.io: AI-powered WordPress website builder and hosting.
-    * bubble.io: No-code platform for building web and mobile apps.
-    * durable.co: AI website builder.
-    * arc.net: a new internet browser.
-    * bolt.new: web based 3d creation tool.
+* 10web.io: AI-powered WordPress website builder and hosting.
+* bubble.io: No-code platform for building web and mobile apps.
+* durable.co: AI website builder.
+* arc.net: a new internet browser.
+* bolt.new: web based 3d creation tool.
     
 **AI Content Generation (Text, Images, Video, Audio):**
 
