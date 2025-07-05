@@ -6,12 +6,15 @@ Absolutely! That's a comprehensive list of AI and related tools. Analyzing each 
 **General Categories:**
 
 **Website & App Building/Hosting:**
+
     * 10web.io: AI-powered WordPress website builder and hosting.
     * bubble.io: No-code platform for building web and mobile apps.
     * durable.co: AI website builder.
     * arc.net: a new internet browser.
     * bolt.new: web based 3d creation tool.
+    
 **AI Content Generation (Text, Images, Video, Audio):**
+
     * aithor.com: AI writing assistant.
     * akool.com: AI video creation and editing.
     * app.artflow.ai: AI image generation and editing.
@@ -38,14 +41,18 @@ Absolutely! That's a comprehensive list of AI and related tools. Analyzing each 
     * promeai.pro: AI image editing.
     * recraft.ai: AI vector art generation.
     * zmo.ai: AI image and video editing.
+    
 **AI Chatbots & Language Models:**
+
     * chatllm.abacus.ai: Custom language model platform.
     * claude.ai: AI chatbot.
     * chatbase.co: Create chatbots from your data.
     * chatplayground.ai: a website to test many AI models.
     * perplexity.ai: AI powered search engine.
     * parakeet-ai.com: AI meeting summarization.
+    
 **AI Productivity & Automation:**
+
     * apob.ai: AI meeting summarization and action items.
     * backpackbot.ai: AI note-taking and summarization.
     * blaze.today/aiblaze: AI-powered task management.
@@ -59,7 +66,9 @@ Absolutely! That's a comprehensive list of AI and related tools. Analyzing each 
     * zapier.com: Automation platform (integrates with many AI tools).
     * make.com: visual automation tool.
     * narrative.bi: AI data storytelling.
+
 **AI Design & 3D:**
+
     * bolt.new: web based 3d creation tool.
     * eyecannndy.com: AI website design.
     * flux1.ai: AI design tool.
@@ -67,7 +76,9 @@ Absolutely! That's a comprehensive list of AI and related tools. Analyzing each 
     * womp.com: 3D design tool.
     * dora.run: 3d website creation.
     * sketch.metademolab.com: 3d sketching tool.
+    
 **Other Tools:**
+
     * cleanup.pictures: AI image background removal.
     * en.eagle.cool: Image organization and inspiration.
     * graphy.app: Online course platform.
